@@ -1,4 +1,4 @@
-# vue-blog
+# Vue-composition-api--Blog
 
 ## Project setup
 ```
